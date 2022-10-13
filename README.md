@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-<!--
-**dhruvil318/dhruvil318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- I am Dhruvil Markana an **Information Technology major** studying at the University of South Florida! 
+- I am currently a Software Development Intern for the Tenex Software Solutions! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠️ Skills
+
+ <!--- feel free to add your own badges and skills. Google https://img.shields.io/badge/SKILL-NAME-000000?style=for-the-badge&logo=SKILL-NAME&logoColor=white) for badges -->
+ 
+![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+## 📝 Networking
+- I am currently looking for an internship
+
